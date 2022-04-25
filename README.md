@@ -8,4 +8,4 @@ This repository contains the supplementary material (code and video) for a submi
 
 The video is publicly shared. Should increased viewing anonymity be desired, browsing in private mode is recommended.
 
-[Supplementary Video](https://drive.google.com/file/d/1y57jRa5FBuPnt8KCTHVeby4e32m3g30x/view?usp=sharing)
+[Supplementary Video](https://drive.google.com/file/d/1uWsoYGXCRbfUIsT9cjHgQ1wNul5YP6nD/view?usp=sharing)
